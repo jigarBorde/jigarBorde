@@ -9,6 +9,8 @@
 
 - 👯 I’m looking to collaborate on **MERN stack projects**
 
+- 👯 I’m looking to collaborate on **Python projects**
+
 - 📫 How to reach me **jigarborde2@gmail.com**
 
 <p align="left">
