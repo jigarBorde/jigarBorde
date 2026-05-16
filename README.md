@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jigarborde" alt="jigarborde" /></a> </p>
 
-- 🌱 I’m currently learning **Typescript, Rust**
+- 🌱 I’m currently learning **Typescript, Golang**
 
 - 👯 I’m looking to collaborate on **MERN stack projects**
 
-- 👯 I’m looking to collaborate on **Python projects**
+- 👯 I’m looking to collaborate on **Golang projects**
 
 - 📫 How to reach me **jigarborde2@gmail.com**
 
